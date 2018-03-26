@@ -1,0 +1,4 @@
+A ideia inicial do jogo será a iplementação 2d do jogo descrito no "Readme Zarigoth".
+A idéia é a criação de um jogo de rpg com graficos 2D parecidos com o jogo "Stardew Valley". A movimentação do personagem é realiizada atraves das teclas WASD, ataques e magias utilizarão o mouse. O jogo possui uma dungeon/labirinto, onde o jogador deve passar por fazes para reagatar a princesa na sala final.
+
+Ainda está a ser decidido quais serão as ferramentas a sererm utilizadas para a implmentação do jogo.
