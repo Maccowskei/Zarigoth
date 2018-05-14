@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
 
@@ -41,6 +41,6 @@ public class PlayerController : MonoBehaviour {
     void setCountText(){
     	countText.text = "Count: " + count.ToString ();
     	if(count >= 12)
-    		winText.text = "You Win!!!";
+    		winText.text = "You Win!!!"; 
     }
 }
